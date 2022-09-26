@@ -1,5 +1,7 @@
 # Shopping List CLI
 
+[![Test](https://github.com/hidakatsuya/shopping_list-cli/actions/workflows/test.yml/badge.svg)](https://github.com/hidakatsuya/shopping_list-cli/actions/workflows/test.yml)
+
 A command line interface for [Shopping List](https://github.com/hidakatsuya/shopping_list).
 
 ## Status
