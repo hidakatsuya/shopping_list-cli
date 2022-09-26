@@ -11,6 +11,9 @@ var rootCmd = &cobra.Command{
 	Use:   "shopping_list-cli",
 	Short: "A command line interface for Shopping List",
 	Long:  "A command line interface for Shopping List.",
+	CompletionOptions: cobra.CompletionOptions{
+		DisableDefaultCmd: true,
+	},
 }
 
 func Execute() {
